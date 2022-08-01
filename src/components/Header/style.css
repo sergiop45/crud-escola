@@ -1,0 +1,18 @@
+.header {
+    background-color: black;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.header a {
+    color: red;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+}
